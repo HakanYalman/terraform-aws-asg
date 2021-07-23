@@ -2,7 +2,7 @@
 
 ```
 module "asg" {
-    source = "HakanYalman/asg/aws"
+    source = "HakanYalman/aws/asg"
 }
 
 ```
