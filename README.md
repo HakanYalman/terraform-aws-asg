@@ -4,5 +4,4 @@
 module "asg" {
     source = "HakanYalman/aws/asg"
 }
-
 ```
